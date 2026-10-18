@@ -1,11 +1,11 @@
 # Car Market Trends Analysis with Car Dekho Data
 
-This project explores historical used-car data from Car Dekho to identify major market trends, pricing patterns, and the key variables influencing vehicle selling prices[cite: 1]. The analysis supports car buyers, sellers, and dealers in making data-driven decisions[cite: 1].
+This project explores historical used-car data from Car Dekho to identify major market trends, pricing patterns, and the key variables influencing vehicle selling prices. The analysis supports car buyers, sellers, and dealers in making data-driven decisions.
 
 ## Project Overview
-* **Objective:** Analyze used-car features to understand price determinants and market dynamics[cite: 1].
-* **Dataset:** Historical used-car records containing features like manufacturing year, selling price, present showroom price, kilometers driven, fuel type, seller type, transmission, and owner count[cite: 1].
-* **Tools Used:** Python, Pandas, NumPy, Matplotlib, Seaborn[cite: 1].
+* **Objective:** Analyze used-car features to understand price determinants and market dynamics.
+* **Dataset:** Historical used-car records containing features like manufacturing year, selling price, present showroom price, kilometers driven, fuel type, seller type, transmission, and owner count.
+* **Tools Used:** Python, Pandas, NumPy, Matplotlib, Seaborn.
 
 ## Key Insights
 * **Present Price Correlation:** A car's current showroom price has the strongest positive correlation with its resale selling price.
